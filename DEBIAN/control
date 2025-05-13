@@ -1,9 +1,0 @@
-Package: html-generator
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: all
-Maintainer: Jan Cordeiro <jancordeiro@protonmail.com>
-Description: 🛠️ Simple Shell HTML Generator
- A lightweight shell-based HTML template generator.
- Supports Bootstrap, Tailwind or Vanilla CSS. Open Source.
