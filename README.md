@@ -58,7 +58,7 @@ Follow the prompts to generate your HTML template
 ## 💻 From Source (Manual)
 
 ```bash
-git clone https://github.com/yourusername/html-generator.git
+git clone https://github.com/jancordeiro/html-generator.git
 cd html-generator
 chmod +x html-generator.sh
 ./html-generator.sh
