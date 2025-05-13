@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "✅ HTML Generator installed!"
+echo "Use it by typing: html-generator"
+echo "📂 Added to your application menu."
+
+# Atualizar cache de ícones
+if command -v gtk-update-icon-cache >/dev/null; then
+    gtk-update-icon-cache -f /usr/share/icons/hicolor
+fi
+
+# Atualizar base de atalhos (opcional)
+if command -v update-desktop-database >/dev/null; then
+    update-desktop-database /usr/share/applications
+fi

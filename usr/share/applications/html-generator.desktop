@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HTML Generator
+Comment=Simple Shell HTML Template Generator
+Exec=html-generator
+Icon=html-generator
+Terminal=true
+Categories=Development;Utility;
+Keywords=html;generator;web;bash;terminal;
+StartupNotify=false
+
