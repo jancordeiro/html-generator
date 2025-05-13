@@ -1,14 +1,21 @@
 #!/bin/bash
+
 echo "✅ HTML Generator installed!"
 echo "Use it by typing: html-generator"
 echo "📂 Added to your application menu."
 
-# Atualizar cache de ícones
+# Permission to execute the script
+chmod 755 /usr/local/bin/html-generator
+
+# Permission to the .desktop file
+chmod 644 /usr/share/applications/html-generator.desktop
+
+# Update icon cache
 if command -v gtk-update-icon-cache >/dev/null; then
     gtk-update-icon-cache -f /usr/share/icons/hicolor
 fi
 
-# Atualizar base de atalhos (opcional)
+# Update shortcut database (desktop files)
 if command -v update-desktop-database >/dev/null; then
     update-desktop-database /usr/share/applications
 fi
