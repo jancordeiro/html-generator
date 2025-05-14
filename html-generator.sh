@@ -172,6 +172,7 @@ about_info() {
     echo ""
     echo "This is a simple Shell Bash HTML Generator."
     echo "You can create basic HTML templates using Bootstrap 5, Tailwind CSS or pure CSS Vanilla."
+    echo "Website: https://jancordeiro.github.io/html-generator"
     echo ""
     echo "Author: Jan Cordeiro 👤"
     echo "Mastodon: https://mastodon.world/@jancordeiro"
