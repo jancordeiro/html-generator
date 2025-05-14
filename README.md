@@ -9,7 +9,7 @@ Create HTML boilerplates quickly and interactively from your terminal.
 
 ## 🎬 Features
 
-- Interactive CLI with ASCII art logo
+- Interactive CLI
 - Supports:
   - Bootstrap 5 (via CDN)
   - Tailwind CSS (via CDN)
@@ -17,7 +17,7 @@ Create HTML boilerplates quickly and interactively from your terminal.
 - Option to generate a clean HTML or with test content
 - Customizable meta tags (title, description, author)
 - Open Source & Lightweight
-- Linux menu launcher support (with icon)
+- Linux menu launcher support
 
 ---
 
@@ -76,7 +76,7 @@ chmod +x /usr/local/bin/html-generator
 ## 🤝 Contributing
 
 Contributions are welcome!
-Feel free to fork the repo and submit pull requests.
+Feel free to fork this repo.
 
 ---
 
