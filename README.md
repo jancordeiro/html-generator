@@ -83,6 +83,6 @@ Feel free to fork this repo.
 
 ## ⚡ Donate
 
-    BTC (On-chain): bc1qdl9uscenggg6rdnav4xjv2ypxtc392e6rsp4zc
+    Bitcoin: bc1qdl9uscenggg6rdnav4xjv2ypxtc392e6rsp4zc
 
-    Lightning Network (LN): loosespandex57@walletofsatoshi.com
+    Lightning Network: loosespandex57@walletofsatoshi.com
