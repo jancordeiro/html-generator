@@ -1,6 +1,7 @@
-# 🛠️ HTML Generator (Shell Bash)
+# 🛠️ HTML Generator CLI
 
-![License](https://img.shields.io/badge/license-MIT-green)  
+![Static Badge](https://img.shields.io/badge/-Shell_Bash-black?logo=gnubash) ![Static Badge](https://img.shields.io/badge/-Linux-black?logo=linux)
+ ![License](https://img.shields.io/badge/license-MIT-green)  
 A simple, terminal-based **HTML template generator** written in pure Bash.  
 Supports **Bootstrap 5**, **Tailwind CSS**, or **Vanilla CSS**.  
 Create HTML boilerplates quickly and interactively from your terminal.  
